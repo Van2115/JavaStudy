@@ -14,8 +14,6 @@ public class StringExam {
         if(str1 == str4)
             System.out.println("str1 == str4");
 
-
-
         System.out.println(str1);
         System.out.println(str2);
         System.out.println(str3);
