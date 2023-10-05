@@ -7,7 +7,6 @@ Controller의 종류가 여러개더라
 마무리 - 같은 코드
 */
 public abstract class Controller {
-
     protected final void init(){
         System.out.println("초기화 하는 코드");
     }
