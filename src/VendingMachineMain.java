@@ -18,7 +18,7 @@ public class VendingMachineMain {
 }
 
 //javac Hello.java
-// Hello.java Hello.class
+//Hello.java Hello.class
 //java Hello
 //정답 ) Classpath 경로에서 hello클래스를 찾아서 실행함. CLASSPTH=. 이라고 잡혀있다고 생각하자 .은 현재 파일
 
